@@ -1,0 +1,6 @@
+[submodule "QuEST"]
+	path = QuEST
+	url = https://github.com/QuEST-Kit/QuEST
+[submodule "ITensor"]
+	path = ITensor
+	url = https://github.com/ITensor/ITensor
