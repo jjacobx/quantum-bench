@@ -1,4 +1,4 @@
-# Energy Efficient Quantum Simulations – Poster Resources
+# Energy Efficient Quantum Simulations
 ## Contents
 
 This repository contains the experiments that were ran to collect the data for the CIUK poster – *Energy Efficient Quantum Simulations*. It has [QuEST](https://github.com/QuEST-Kit/QuEST) and [ITensor](https://github.com/ITensor/ITensor) repositories linked, as those are necessary to run the circuit. The implemented circuits are the *Quantum Fourier Transform (QFT)* and a *Random circuit (RAND)* from the [Google's quantum advantage paper](https://www.nature.com/articles/s41586-019-1666-5). 
