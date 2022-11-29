@@ -1,0 +1,1169 @@
+SLURM_JOB_ID,SLURM_JOB_NAME,SLURM_JOB_NUM_NODES,SLURM_NTASKS,SLURM_CPU_FREQ_REQ,OMP_NUM_THREADS,PROG,QREG_SIZE,INIT,MAX_DIM,CUTOFF,DEPTH,OUTPUT,HAS_ERRORS
+2650748,quest-energy,1,1,,1,bench,12,|0..0>,16,1E-16,13,"Full simulation time: 774.536 ms
+Norm: 0.999638
+Max link dim: 16
+Avg link dim: 10.090909
+Amplitude: (-0.0262726,-0.00906393)
+
+Overlap time: 575.769 ms
+Amplitude: (0.0172313,-0.000639503)
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2650748.0      00:00:03            673 ",FALSE
+2650749,quest-energy,1,1,,1,bench,12,|0..0>,256,1E-16,13,"Full simulation time: 805.679 ms
+Norm: 1.000000
+Max link dim: 63
+Avg link dim: 17.545455
+Amplitude: (-0.025889,-0.00928844)
+
+Overlap time: 573.106 ms
+Amplitude: (0.0172313,-0.000639503)
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2650749.0      00:00:03            622 ",FALSE
+2650750,quest-energy,1,1,,1,bench,12,|0..0>,16777216,1E-16,13,"Full simulation time: 802.858 ms
+Norm: 1.000000
+Max link dim: 63
+Avg link dim: 17.545455
+Amplitude: (-0.025889,-0.00928844)
+
+Overlap time: 575.069 ms
+Amplitude: (0.0172313,-0.000639503)
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2650750.0      00:00:03            694 ",FALSE
+2650751,quest-energy,1,1,,1,qft,12,|0..0>,16777216,1E-16,13,"Full simulation time: 321.774 ms
+Norm: 1.000000
+Max link dim: 1
+Avg link dim: 1.000000
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2650751.0      00:00:02            315 ",FALSE
+2650752,quest-energy,1,1,,1,qft,12,|Wn>,16777216,1E-16,13,"Full simulation time: 252.076 ms
+Norm: 1.000000
+Max link dim: 8
+Avg link dim: 5.272727
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2650752.0      00:00:02            276 ",FALSE
+2650753,quest-energy,1,1,,1,bench,14,|0..0>,32,1E-16,15,"Full simulation time: 1160.99 ms
+Norm: 0.999944
+Max link dim: 32
+Avg link dim: 17.307692
+Amplitude: (0.00168483,-0.00501759)
+
+Overlap time: 897.658 ms
+Amplitude: (0.00191604,0.00416279)
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2650753.0      00:00:03            720 ",FALSE
+2650754,quest-energy,1,1,,1,bench,14,|0..0>,256,1E-16,15,"Full simulation time: 1377.22 ms
+Norm: 1.000000
+Max link dim: 128
+Avg link dim: 29.923077
+Amplitude: (0.0017198,-0.00491699)
+
+Overlap time: 889.412 ms
+Amplitude: (0.00191604,0.00416279)
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2650754.0      00:00:04            870 ",FALSE
+2650755,quest-energy,1,1,,1,bench,14,|0..0>,16777216,1E-16,15,"Full simulation time: 1378.29 ms
+Norm: 1.000000
+Max link dim: 128
+Avg link dim: 29.923077
+Amplitude: (0.0017198,-0.00491699)
+
+Overlap time: 892.146 ms
+Amplitude: (0.00191604,0.00416279)
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2650755.0      00:00:04            886 ",FALSE
+2650756,quest-energy,1,1,,1,qft,14,|0..0>,16777216,1E-16,15,"Full simulation time: 398.844 ms
+Norm: 1.000000
+Max link dim: 1
+Avg link dim: 1.000000
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2650756.0      00:00:02            358 ",FALSE
+2650757,quest-energy,1,1,,1,qft,14,|Wn>,16777216,1E-16,15,"Full simulation time: 342.208 ms
+Norm: 1.000000
+Max link dim: 9
+Avg link dim: 5.384615
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2650757.0      00:00:02            345 ",FALSE
+2650762,quest-energy,1,1,,1,bench,16,|0..0>,64,1E-16,17,"Full simulation time: 1843.33 ms
+Norm: 0.999996
+Max link dim: 64
+Avg link dim: 30.333333
+Amplitude: (-0.000134192,7.3144e-05)
+
+Overlap time: 1322.89 ms
+Amplitude: (-0.00130082,0.00459154)
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2650762.0      00:00:05            945 ",FALSE
+2650763,quest-energy,1,1,,1,bench,16,|0..0>,256,1E-16,17,"Full simulation time: 2885.56 ms
+Norm: 1.000000
+Max link dim: 235
+Avg link dim: 50.533333
+Amplitude: (-0.000148601,7.01554e-05)
+
+Overlap time: 1322.4 ms
+Amplitude: (-0.00130082,0.00459154)
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2650763.0      00:00:05          1.32K ",FALSE
+2650764,quest-energy,1,1,,1,bench,16,|0..0>,16777216,1E-16,17,"Full simulation time: 2807.6 ms
+Norm: 1.000000
+Max link dim: 235
+Avg link dim: 50.533333
+Amplitude: (-0.000148601,7.01554e-05)
+
+Overlap time: 1237.21 ms
+Amplitude: (-0.00130082,0.00459154)
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2650764.0      00:00:05          1.15K ",FALSE
+2650765,quest-energy,1,1,,1,qft,16,|0..0>,16777216,1E-16,17,"Full simulation time: 482.06 ms
+Norm: 1.000000
+Max link dim: 1
+Avg link dim: 1.000000
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2650765.0      00:00:02            326 ",FALSE
+2650766,quest-energy,1,1,,1,qft,16,|Wn>,16777216,1E-16,17,"Full simulation time: 475.178 ms
+Norm: 1.000000
+Max link dim: 8
+Avg link dim: 5.733333
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2650766.0      00:00:02            294 ",FALSE
+2650767,quest-energy,1,1,,1,bench,18,|0..0>,128,1E-16,19,"Full simulation time: 4350.5 ms
+Norm: 1.000000
+Max link dim: 128
+Avg link dim: 53.176471
+Amplitude: (0.000334166,-5.956e-05)
+
+Overlap time: 1896.49 ms
+Amplitude: (0.000916571,-0.000622266)
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2650767.0      00:00:07          1.74K ",FALSE
+2650768,quest-energy,1,1,,1,bench,18,|0..0>,256,1E-16,19,"Full simulation time: 7969.53 ms
+Norm: 1.000000
+Max link dim: 256
+Avg link dim: 75.823529
+Amplitude: (0.000333887,-6.02776e-05)
+
+Overlap time: 1854.4 ms
+Amplitude: (0.000916571,-0.000622266)
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2650768.0      00:00:12          2.82K ",FALSE
+2650769,quest-energy,1,1,,1,bench,18,|0..0>,16777216,1E-16,19,"Full simulation time: 10585 ms
+Norm: 1.000000
+Max link dim: 491
+Avg link dim: 89.588235
+Amplitude: (0.000333876,-6.02752e-05)
+
+Overlap time: 1857.95 ms
+Amplitude: (0.000916571,-0.000622266)
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2650769.0      00:00:15          3.36K ",FALSE
+2650770,quest-energy,1,1,,1,qft,18,|0..0>,16777216,1E-16,19,"Full simulation time: 595.939 ms
+Norm: 1.000000
+Max link dim: 1
+Avg link dim: 1.000000
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2650770.0      00:00:02            345 ",FALSE
+2650771,quest-energy,1,1,,1,qft,18,|Wn>,16777216,1E-16,19,"Full simulation time: 610.556 ms
+Norm: 1.000000
+Max link dim: 8
+Avg link dim: 5.941176
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2650771.0      00:00:02            360 ",FALSE
+2650772,quest-energy,1,1,,1,bench,20,|0..0>,256,1E-16,21,"Full simulation time: 17617.9 ms
+Norm: 1.000000
+Max link dim: 256
+Avg link dim: 94.789474
+Amplitude: (0.00082518,-0.000841561)
+
+Overlap time: 2573.6 ms
+Amplitude: (-0.000143111,0.00029305)
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2650772.0      00:00:21          5.05K ",FALSE
+2650773,quest-energy,1,1,,1,bench,20,|0..0>,256,1E-16,21,"Full simulation time: 17117.9 ms
+Norm: 1.000000
+Max link dim: 256
+Avg link dim: 94.789474
+Amplitude: (0.00082518,-0.000841561)
+
+Overlap time: 2394.53 ms
+Amplitude: (-0.000143111,0.00029305)
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2650773.0      00:00:20          4.74K ",FALSE
+2650774,quest-energy,1,1,,1,bench,20,|0..0>,16777216,1E-16,21,"Full simulation time: 53225.5 ms
+Norm: 1.000000
+Max link dim: 732
+Avg link dim: 147.210526
+Amplitude: (0.000825202,-0.000841435)
+
+Overlap time: 2531.61 ms
+Amplitude: (-0.000143111,0.00029305)
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2650774.0      00:00:57         14.38K ",FALSE
+2650775,quest-energy,1,1,,1,qft,20,|0..0>,16777216,1E-16,21,"Full simulation time: 682.83 ms
+Norm: 1.000000
+Max link dim: 1
+Avg link dim: 1.000000
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2650775.0      00:00:02            364 ",FALSE
+2650776,quest-energy,1,1,,1,qft,20,|Wn>,16777216,1E-16,21,"Full simulation time: 811.472 ms
+Norm: 1.000000
+Max link dim: 9
+Avg link dim: 6.526316
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2650776.0      00:00:02            346 ",FALSE
+2650777,quest-energy,1,1,,1,bench,22,|0..0>,512,1E-16,23,"Full simulation time: 103852 ms
+Norm: 1.000000
+Max link dim: 512
+Avg link dim: 171.523810
+Amplitude: (0.000734786,0.00094806)
+
+Overlap time: 3397.6 ms
+Amplitude: (-0.000278138,-5.18956e-05)
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2650777.0      00:01:48         25.07K ",FALSE
+2650778,quest-energy,1,1,,1,bench,22,|0..0>,256,1E-16,23,"Full simulation time: 30693.4 ms
+Norm: 1.000000
+Max link dim: 256
+Avg link dim: 110.333333
+Amplitude: (0.000734542,0.000947949)
+
+Overlap time: 3444.02 ms
+Amplitude: (-0.000278138,-5.18956e-05)
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2650778.0      00:00:35          8.26K ",FALSE
+2650779,quest-energy,1,1,,1,bench,22,|0..0>,16777216,1E-16,23,"Full simulation time: 331654 ms
+Norm: 1.000000
+Max link dim: 1531
+Avg link dim: 267.523810
+Amplitude: (0.000734783,0.000948066)
+
+Overlap time: 3393.12 ms
+Amplitude: (-0.000278138,-5.18956e-05)
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2650779.0      00:05:36         81.07K ",FALSE
+2650780,quest-energy,1,1,,1,qft,22,|0..0>,16777216,1E-16,23,"Full simulation time: 869.382 ms
+Norm: 1.000000
+Max link dim: 1
+Avg link dim: 1.000000
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2650780.0      00:00:02            370 ",FALSE
+2650781,quest-energy,1,1,,1,qft,22,|Wn>,16777216,1E-16,23,"Full simulation time: 1081.21 ms
+Norm: 1.000000
+Max link dim: 9
+Avg link dim: 6.380952
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2650781.0      00:00:02            549 ",FALSE
+2650782,quest-energy,1,1,,1,bench,24,|0..0>,1024,1E-16,25,"Full simulation time: 845508 ms
+Norm: 1.000000
+Max link dim: 1024
+Avg link dim: 312.913043
+Amplitude: (-7.91337e-06,-6.5334e-05)
+
+Overlap time: 4541.48 ms
+Amplitude: (-0.000209784,-0.000183272)
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2650782.0      00:14:12        208.57K ",FALSE
+2650783,quest-energy,1,1,,1,bench,24,|0..0>,256,1E-16,25,"Full simulation time: 47553.3 ms
+Norm: 0.999998
+Max link dim: 256
+Avg link dim: 123.130435
+Amplitude: (-7.97641e-06,-6.4973e-05)
+
+Overlap time: 4206.04 ms
+Amplitude: (-0.000209784,-0.000183272)
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2650783.0      00:00:53         12.58K ",FALSE
+2650784,quest-energy,1,1,,1,bench,24,|0..0>,16777216,1E-16,25,"Full simulation time: 1.56318e+06 ms
+Norm: 1.000000
+Max link dim: 2006
+Avg link dim: 431.565217
+Amplitude: (-7.91319e-06,-6.53336e-05)
+
+Overlap time: 4517.69 ms
+Amplitude: (-0.000209784,-0.000183272)
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2650784.0      00:26:11        379.34K ",FALSE
+2650785,quest-energy,1,1,,1,qft,24,|0..0>,16777216,1E-16,25,"Full simulation time: 1131.03 ms
+Norm: 1.000000
+Max link dim: 1
+Avg link dim: 1.000000
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2650785.0      00:00:02            480 ",FALSE
+2650786,quest-energy,1,1,,1,qft,24,|Wn>,16777216,1E-16,25,"Full simulation time: 1358.74 ms
+Norm: 1.000000
+Max link dim: 8
+Avg link dim: 6.304348
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2650786.0      00:00:03            548 ",FALSE
+2650903,quest-energy,1,1,,1,bench,26,|0..0>,256,1E-16,27,"Full simulation time: 68717.7 ms
+Norm: 0.999989
+Max link dim: 256
+Avg link dim: 134.080000
+Amplitude: (-7.42101e-05,-0.000100161)
+
+Overlap time: 5905.07 ms
+Amplitude: (6.92812e-06,8.85557e-05)
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2650903.0      00:01:15         17.14K ",FALSE
+2650904,quest-energy,1,1,,1,qft,26,|0..0>,16777216,1E-16,27,"Full simulation time: 1384.4 ms
+Norm: 1.000000
+Max link dim: 1
+Avg link dim: 1.000000
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2650904.0      00:00:03            530 ",FALSE
+2650905,quest-energy,1,1,,1,qft,26,|Wn>,16777216,1E-16,27,"Full simulation time: 1713.76 ms
+Norm: 1.000000
+Max link dim: 9
+Avg link dim: 6.520000
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2650905.0      00:00:03            621 ",FALSE
+2650906,quest-energy,1,1,,1,bench,28,|0..0>,256,1E-16,29,"Full simulation time: 94232.3 ms
+Norm: 0.999944
+Max link dim: 256
+Avg link dim: 142.925926
+Amplitude: (8.34523e-06,-2.6602e-05)
+
+Overlap time: 7895.47 ms
+Amplitude: (3.06973e-05,0.000194903)
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2650906.0      00:01:43         25.92K ",FALSE
+2650907,quest-energy,1,1,,1,qft,28,|0..0>,16777216,1E-16,29,"Full simulation time: 1670.91 ms
+Norm: 1.000000
+Max link dim: 1
+Avg link dim: 1.000000
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2650907.0      00:00:02            607 ",FALSE
+2650908,quest-energy,1,1,,1,qft,28,|Wn>,16777216,1E-16,29,"Full simulation time: 2097.14 ms
+Norm: 1.000000
+Max link dim: 8
+Avg link dim: 6.518519
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2650908.0      00:00:03            670 ",FALSE
+2650909,quest-energy,1,1,,1,bench,30,|0..0>,256,1E-16,31,"Full simulation time: 123518 ms
+Norm: 0.999895
+Max link dim: 256
+Avg link dim: 151.103448
+Amplitude: (-7.34245e-05,5.9015e-07)
+
+Overlap time: 11385.6 ms
+Amplitude: (-1.2487e-06,-2.31318e-05)
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2650909.0      00:02:18         31.14K ",FALSE
+2650910,quest-energy,1,1,,1,qft,30,|0..0>,16777216,1E-16,31,"Full simulation time: 1966.47 ms
+Norm: 1.000000
+Max link dim: 1
+Avg link dim: 1.000000
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2650910.0      00:00:03            649 ",FALSE
+2650911,quest-energy,1,1,,1,qft,30,|Wn>,16777216,1E-16,31,"Full simulation time: 2447.19 ms
+Norm: 1.000000
+Max link dim: 9
+Avg link dim: 6.793103
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2650911.0      00:00:03            851 ",FALSE
+2650912,quest-energy,1,1,,1,bench,32,|0..0>,256,1E-16,33,"Full simulation time: 157958 ms
+Norm: 0.999601
+Max link dim: 256
+Avg link dim: 158.483871
+Amplitude: (4.94582e-06,-6.13635e-06)
+
+Overlap time: 17714.6 ms
+Amplitude: (-4.73935e-06,5.7047e-06)
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2650912.0      00:02:56         40.53K ",FALSE
+2650913,quest-energy,1,1,,1,qft,32,|0..0>,16777216,1E-16,33,"Full simulation time: 2297.54 ms
+Norm: 1.000000
+Max link dim: 1
+Avg link dim: 1.000000
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2650913.0      00:00:03            724 ",FALSE
+2650914,quest-energy,1,1,,1,qft,32,|Wn>,16777216,1E-16,33,"Full simulation time: 2878.97 ms
+Norm: 1.000000
+Max link dim: 8
+Avg link dim: 6.677419
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2650914.0      00:00:04            843 ",FALSE
+2651062,quest-energy,1,1,,1,bench,34,|0..0>,256,1E-16,35,"Full simulation time: 193612 ms
+Norm: 0.999055
+Max link dim: 256
+Avg link dim: 164.484848
+Amplitude: (-4.29939e-08,-8.23362e-07)
+
+Overlap time: 26520.6 ms
+Amplitude: (4.22685e-06,5.35101e-06)
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651062.0      00:03:42         57.92K ",FALSE
+2651063,quest-energy,1,1,,1,qft,34,|0..0>,16777216,1E-16,35,"Full simulation time: 2702.24 ms
+Norm: 1.000000
+Max link dim: 1
+Avg link dim: 1.000000
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651063.0      00:00:03            878 ",FALSE
+2651064,quest-energy,1,1,,1,qft,34,|Wn>,16777216,1E-16,35,"Full simulation time: 3955.05 ms
+Norm: 1.000000
+Max link dim: 11
+Avg link dim: 8.303030
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651064.0      00:00:08          1.24K ",FALSE
+2651065,quest-energy,1,1,,1,bench,36,|0..0>,256,1E-16,37,"Full simulation time: 236021 ms
+Norm: 0.997704
+Max link dim: 256
+Avg link dim: 169.800000
+Amplitude: (-2.71712e-06,-1.11536e-08)
+
+Overlap time: 39487.6 ms
+Amplitude: (2.2821e-06,3.03054e-06)
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651065.0      00:04:36         72.61K ",FALSE
+2651066,quest-energy,1,1,,1,qft,36,|0..0>,16777216,1E-16,37,"Full simulation time: 3230.49 ms
+Norm: 1.000000
+Max link dim: 1
+Avg link dim: 1.000000
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651066.0      00:00:05          1.12K ",FALSE
+2651067,quest-energy,1,1,,1,qft,36,|Wn>,16777216,1E-16,37,"Full simulation time: 5529.28 ms
+Norm: 1.000000
+Max link dim: 13
+Avg link dim: 9.857143
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651067.0      00:00:08          1.61K ",FALSE
+2651068,quest-energy,1,1,,1,bench,38,|0..0>,256,1E-16,39,"Full simulation time: 279868 ms
+Norm: 0.995804
+Max link dim: 256
+Avg link dim: 174.648649
+Amplitude: (-1.32333e-06,4.17493e-07)
+
+Overlap time: 56835.9 ms
+Amplitude: (-2.14519e-06,-4.72967e-07)
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651068.0      00:05:37         80.81K ",FALSE
+2651069,quest-energy,1,1,,1,qft,38,|0..0>,16777216,1E-16,39,"Full simulation time: 3677.02 ms
+Norm: 1.000000
+Max link dim: 1
+Avg link dim: 1.000000
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651069.0      00:00:05          1.06K ",FALSE
+2651070,quest-energy,1,1,,1,qft,38,|Wn>,16777216,1E-16,39,"Full simulation time: 7410.14 ms
+Norm: 1.000000
+Max link dim: 18
+Avg link dim: 11.675676
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651070.0      00:00:09          2.08K ",FALSE
+2651071,quest-energy,1,1,,1,bench,40,|0..0>,256,1E-16,41,"Full simulation time: 332627 ms
+Norm: 0.989972
+Max link dim: 256
+Avg link dim: 179.179487
+Amplitude: (-1.44673e-06,5.39176e-08)
+
+Overlap time: 75472.1 ms
+Amplitude: (1.01191e-06,-1.20526e-06)
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651071.0      00:06:49         93.58K ",FALSE
+2651072,quest-energy,1,1,,1,qft,40,|0..0>,16777216,1E-16,41,"Full simulation time: 4413.01 ms
+Norm: 1.000000
+Max link dim: 1
+Avg link dim: 1.000000
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651072.0      00:00:07          1.28K ",FALSE
+2651073,quest-energy,1,1,,1,qft,40,|Wn>,16777216,1E-16,41,"Full simulation time: 10517.3 ms
+Norm: 1.000000
+Max link dim: 23
+Avg link dim: 12.897436
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651073.0      00:00:13          2.54K ",FALSE
+2651610,quest-energy,1,1,,1,bench,42,|0..0>,256,1E-16,43,"Full simulation time: 402321 ms
+Norm: 0.983879
+Max link dim: 256
+Avg link dim: 183.487805
+Amplitude: (1.19854e-07,-1.10094e-07)
+
+Overlap time: 99465.6 ms
+Amplitude: (-2.44343e-07,5.45412e-07)
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651610.0      00:08:23        124.05K ",FALSE
+2651611,quest-energy,1,1,,1,qft,42,|0..0>,16777216,1E-16,43,"Full simulation time: 4727.11 ms
+Norm: 1.000000
+Max link dim: 1
+Avg link dim: 1.000000
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651611.0      00:00:07          1.35K ",FALSE
+2651612,quest-energy,1,1,,1,qft,42,|Wn>,16777216,1E-16,43,"Full simulation time: 13946.1 ms
+Norm: 1.000000
+Max link dim: 26
+Avg link dim: 14.951220
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651612.0      00:00:15          3.47K ",FALSE
+2651613,quest-energy,1,1,,1,bench,44,|0..0>,256,1E-16,45,"Full simulation time: 443380 ms
+Norm: 0.976135
+Max link dim: 256
+Avg link dim: 186.604651
+Amplitude: (-1.30929e-07,-8.55668e-09)
+
+Overlap time: 122030 ms
+Amplitude: (-1.96331e-07,-1.93889e-07)
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651613.0      00:09:26        126.17K ",FALSE
+2651614,quest-energy,1,1,,1,qft,44,|0..0>,16777216,1E-16,45,"Full simulation time: 5732.97 ms
+Norm: 1.000000
+Max link dim: 1
+Avg link dim: 1.000000
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651614.0      00:00:07          1.67K ",FALSE
+2651615,quest-energy,1,1,,1,qft,44,|Wn>,16777216,1E-16,45,"Full simulation time: 18032.5 ms
+Norm: 1.000000
+Max link dim: 29
+Avg link dim: 16.023256
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651615.0      00:00:20          4.53K ",FALSE
+2651616,quest-energy,1,1,,1,bench,46,|0..0>,256,1E-16,47,"Full simulation time: 502356 ms
+Norm: 0.962203
+Max link dim: 256
+Avg link dim: 190.000000
+Amplitude: (5.43526e-09,-1.96622e-07)
+
+Overlap time: 147012 ms
+Amplitude: (-5.40947e-08,2.70867e-08)
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651616.0      00:10:53        149.49K ",FALSE
+2651617,quest-energy,1,1,,1,qft,46,|0..0>,16777216,1E-16,47,"Full simulation time: 6363.61 ms
+Norm: 1.000000
+Max link dim: 1
+Avg link dim: 1.000000
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651617.0      00:00:07          1.70K ",FALSE
+2651618,quest-energy,1,1,,1,qft,46,|Wn>,16777216,1E-16,47,"Full simulation time: 23087 ms
+Norm: 1.000000
+Max link dim: 31
+Avg link dim: 16.977778
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651618.0      00:00:24          5.53K ",FALSE
+2651619,quest-energy,1,1,,1,bench,48,|0..0>,256,1E-16,49,"Full simulation time: 573018 ms
+Norm: 0.941475
+Max link dim: 256
+Avg link dim: 193.085106
+Amplitude: (-9.64261e-09,-4.39093e-08)
+
+Overlap time: 178187 ms
+Amplitude: (2.37463e-08,-6.10628e-08)
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651619.0      00:12:32        172.72K ",FALSE
+2651620,quest-energy,1,1,,1,qft,48,|0..0>,16777216,1E-16,49,"Full simulation time: 7198.3 ms
+Norm: 1.000000
+Max link dim: 1
+Avg link dim: 1.000000
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651620.0      00:00:10          2.09K ",FALSE
+2651621,quest-energy,1,1,,1,qft,48,|Wn>,16777216,1E-16,49,"Full simulation time: 28961.3 ms
+Norm: 1.000000
+Max link dim: 37
+Avg link dim: 18.042553
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651621.0      00:00:30          7.47K ",FALSE
+2651622,quest-energy,1,1,,1,bench,50,|0..0>,256,1E-16,51,"Full simulation time: 650325 ms
+Norm: 0.927250
+Max link dim: 256
+Avg link dim: 195.959184
+Amplitude: (4.00502e-09,4.60734e-10)
+
+Overlap time: 212845 ms
+Amplitude: (-6.74029e-09,-1.2072e-08)
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651622.0      00:14:24        205.20K ",FALSE
+2651623,quest-energy,1,1,,1,qft,50,|0..0>,16777216,1E-16,51,"Full simulation time: 7752.42 ms
+Norm: 1.000000
+Max link dim: 1
+Avg link dim: 1.000000
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651623.0      00:00:10          1.91K ",FALSE
+2651624,quest-energy,1,1,,1,qft,50,|Wn>,16777216,1E-16,51,"Full simulation time: 36582 ms
+Norm: 1.000000
+Max link dim: 40
+Avg link dim: 19.551020
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651624.0      00:00:38          8.74K ",FALSE
+2651652,quest-energy,1,1,,1,bench,52,|0..0>,256,1E-16,53,"Full simulation time: 713854 ms
+Norm: 0.855137
+Max link dim: 256
+Avg link dim: 198.627451
+Amplitude: (3.50164e-09,-5.00471e-09)
+
+Overlap time: 242223 ms
+Amplitude: (-3.98457e-10,2.43213e-09)
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651652.0      00:15:57        220.62K ",FALSE
+2651653,quest-energy,1,1,,1,qft,52,|0..0>,16777216,1E-16,53,"Full simulation time: 9426.87 ms
+Norm: 1.000000
+Max link dim: 1
+Avg link dim: 1.000000
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651653.0      00:00:10          2.41K ",FALSE
+2651654,quest-energy,1,1,,1,qft,52,|Wn>,16777216,1E-16,53,"Full simulation time: 45634.5 ms
+Norm: 1.000000
+Max link dim: 42
+Avg link dim: 20.568627
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651654.0      00:00:49         11.64K ",FALSE
+2651655,quest-energy,1,1,,1,bench,54,|0..0>,256,1E-16,55,"Full simulation time: 794648 ms
+Norm: 0.852653
+Max link dim: 256
+Avg link dim: 200.735849
+Amplitude: (4.39775e-09,-3.22228e-10)
+
+Overlap time: 279306 ms
+Amplitude: (7.80511e-09,-1.08941e-08)
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651655.0      00:17:57        269.10K ",FALSE
+2651656,quest-energy,1,1,,1,qft,54,|0..0>,16777216,1E-16,55,"Full simulation time: 10160.1 ms
+Norm: 1.000000
+Max link dim: 1
+Avg link dim: 1.000000
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651656.0      00:00:12          2.80K ",FALSE
+2651657,quest-energy,1,1,,1,qft,54,|Wn>,16777216,1E-16,55,"Full simulation time: 56369.1 ms
+Norm: 1.000000
+Max link dim: 42
+Avg link dim: 22.188679
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651657.0      00:00:59         13.62K ",FALSE
+2651658,quest-energy,1,1,,1,bench,56,|0..0>,256,1E-16,57,"Full simulation time: 886571 ms
+Norm: 0.798804
+Max link dim: 256
+Avg link dim: 202.490909
+Amplitude: (1.07911e-09,-1.4665e-09)
+
+Overlap time: 321809 ms
+Amplitude: (-3.52066e-09,-1.25579e-09)
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651658.0      00:20:10        291.10K ",FALSE
+2651659,quest-energy,1,1,,1,qft,56,|0..0>,16777216,1E-16,57,"Full simulation time: 11736.6 ms
+Norm: 1.000000
+Max link dim: 1
+Avg link dim: 1.000000
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651659.0      00:00:13          2.72K ",FALSE
+2651660,quest-energy,1,1,,1,qft,56,|Wn>,16777216,1E-16,57,"Full simulation time: 69114.5 ms
+Norm: 1.000000
+Max link dim: 57
+Avg link dim: 23.945455
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651660.0      00:01:11         17.39K ",FALSE
+2651661,quest-energy,1,1,,1,bench,58,|0..0>,256,1E-16,59,"Full simulation time: 962006 ms
+Norm: 0.724377
+Max link dim: 256
+Avg link dim: 204.771930
+Amplitude: (-2.53826e-10,-9.18305e-10)
+
+Overlap time: 356316 ms
+Amplitude: (-9.43144e-10,-6.80341e-10)
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651661.0      00:22:01        303.53K ",FALSE
+2651662,quest-energy,1,1,,1,qft,58,|0..0>,16777216,1E-16,59,"Full simulation time: 12803.1 ms
+Norm: 1.000000
+Max link dim: 1
+Avg link dim: 1.000000
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651662.0      00:00:14          3.35K ",FALSE
+2651663,quest-energy,1,1,,1,qft,58,|Wn>,16777216,1E-16,59,"Full simulation time: 89085.5 ms
+Norm: 1.000000
+Max link dim: 65
+Avg link dim: 25.859649
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651663.0      00:01:32         21.63K ",FALSE
+2651664,quest-energy,1,1,,1,bench,60,|0..0>,256,1E-16,61,"Full simulation time: 1.05999e+06 ms
+Norm: 0.672515
+Max link dim: 256
+Avg link dim: 206.779661
+Amplitude: (4.20974e-10,3.59716e-10)
+
+Overlap time: 406399 ms
+Amplitude: (7.3589e-11,-1.8478e-10)
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651664.0      00:24:28        382.82K ",FALSE
+2651665,quest-energy,1,1,,1,qft,60,|0..0>,16777216,1E-16,61,"Full simulation time: 13835.5 ms
+Norm: 1.000000
+Max link dim: 1
+Avg link dim: 1.000000
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651665.0      00:00:16          3.50K ",FALSE
+2651666,quest-energy,1,1,,1,qft,60,|Wn>,16777216,1E-16,61,"Full simulation time: 106931 ms
+Norm: 1.000000
+Max link dim: 60
+Avg link dim: 24.796610
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651666.0      00:01:48         24.80K ",FALSE
+2651754,quest-energy,1,1,,1,bench,62,|0..0>,256,1E-16,63,"Full simulation time: 1.15463e+06 ms
+Norm: 0.651429
+Max link dim: 256
+Avg link dim: 208.524590
+Amplitude: (-3.03277e-10,9.48641e-11)
+
+Overlap time: 451477 ms
+Amplitude: (4.04018e-10,-7.53499e-11)
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651754.0      00:26:48        393.44K ",FALSE
+2651755,quest-energy,1,1,,1,qft,62,|0..0>,16777216,1E-16,63,"Full simulation time: 15082.8 ms
+Norm: 1.000000
+Max link dim: 1
+Avg link dim: 1.000000
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651755.0      00:00:17          3.80K ",FALSE
+2651756,quest-energy,1,1,,1,qft,62,|Wn>,16777216,1E-16,63,"Full simulation time: 136141 ms
+Norm: 1.000000
+Max link dim: 62
+Avg link dim: 26.295082
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651756.0      00:02:18         33.72K ",FALSE
+2651757,quest-energy,1,1,,1,bench,64,|0..0>,256,1E-16,65,"Full simulation time: 1.27488e+06 ms
+Norm: 0.565164
+Max link dim: 256
+Avg link dim: 210.079365
+Amplitude: (-4.28269e-11,-1.35559e-11)
+
+Overlap time: 507127 ms
+Amplitude: (-1.00899e-10,7.64897e-11)
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651757.0      00:29:43        447.26K ",FALSE
+2651758,quest-energy,1,1,,1,qft,64,|0..0>,16777216,1E-16,65,"Full simulation time: 17094.3 ms
+Norm: 1.000000
+Max link dim: 1
+Avg link dim: 1.000000
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651758.0      00:00:20          4.42K ",FALSE
+2651759,quest-energy,1,1,,1,qft,64,|Wn>,16777216,1E-16,65,"Full simulation time: 165921 ms
+Norm: 1.000000
+Max link dim: 62
+Avg link dim: 26.761905
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651759.0      00:02:47         40.36K ",FALSE
+2651760,quest-energy,1,1,,1,bench,66,|0..0>,256,1E-16,67,"Full simulation time: 1.35858e+06 ms
+Norm: 0.486104
+Max link dim: 256
+Avg link dim: 211.400000
+Amplitude: (2.48065e-11,2.14107e-11)
+
+Overlap time: 550866 ms
+Amplitude: (1.18594e-14,-4.03074e-11)
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651760.0      00:31:51        454.06K ",FALSE
+2651761,quest-energy,1,1,,1,qft,66,|0..0>,16777216,1E-16,67,"Full simulation time: 18182.9 ms
+Norm: 1.000000
+Max link dim: 1
+Avg link dim: 1.000000
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651761.0      00:00:21          4.43K ",FALSE
+2651762,quest-energy,1,1,,1,qft,66,|Wn>,16777216,1E-16,67,"Full simulation time: 184707 ms
+Norm: 1.000000
+Max link dim: 73
+Avg link dim: 26.738462
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651762.0      00:03:08         44.62K ",FALSE
+2651763,quest-energy,1,1,,1,bench,68,|0..0>,256,1E-16,69,"Full simulation time: 1.47495e+06 ms
+Norm: 0.422174
+Max link dim: 256
+Avg link dim: 213.044776
+Amplitude: (1.80635e-13,-1.90983e-11)
+
+Overlap time: 609409 ms
+Amplitude: (2.85686e-11,-1.66646e-11)
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651763.0      00:34:46        511.09K ",FALSE
+2651764,quest-energy,1,1,,1,qft,68,|0..0>,16777216,1E-16,69,"Full simulation time: 20357.6 ms
+Norm: 1.000000
+Max link dim: 1
+Avg link dim: 1.000000
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651764.0      00:00:23          5.09K ",FALSE
+2651765,quest-energy,1,1,,1,qft,68,|Wn>,16777216,1E-16,69,"Full simulation time: 231379 ms
+Norm: 1.000000
+Max link dim: 76
+Avg link dim: 30.238806
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651765.0      00:03:53         56.22K ",FALSE
+2651766,quest-energy,1,1,,1,bench,70,|0..0>,256,1E-16,71,"Full simulation time: 1.57934e+06 ms
+Norm: 0.364903
+Max link dim: 256
+Avg link dim: 214.304348
+Amplitude: (7.67351e-12,-7.57892e-12)
+
+Overlap time: 662649 ms
+Amplitude: (6.86969e-12,5.67398e-12)
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651766.0      00:37:25        506.36K ",FALSE
+2651767,quest-energy,1,1,,1,qft,70,|0..0>,16777216,1E-16,71,"Full simulation time: 20230.6 ms
+Norm: 1.000000
+Max link dim: 1
+Avg link dim: 1.000000
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651767.0      00:00:23          4.93K ",FALSE
+2651768,quest-energy,1,1,,1,qft,70,|Wn>,16777216,1E-16,71,"Full simulation time: 288459 ms
+Norm: 1.000000
+Max link dim: 84
+Avg link dim: 31.115942
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651768.0      00:04:51         69.72K ",FALSE
+2651771,quest-energy,1,1,,1,qft,72,|0..0>,16777216,1E-16,73,"Full simulation time: 24923.1 ms
+Norm: 1.000000
+Max link dim: 1
+Avg link dim: 1.000000
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651771.0      00:00:26          6.40K ",FALSE
+2651772,quest-energy,1,1,,1,qft,72,|Wn>,16777216,1E-16,73,"Full simulation time: 346768 ms
+Norm: 1.000000
+Max link dim: 82
+Avg link dim: 29.830986
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651772.0      00:05:50         86.96K ",FALSE
+2651773,quest-energy,1,1,,1,qft,74,|0..0>,16777216,1E-16,75,"Full simulation time: 26342.6 ms
+Norm: 1.000000
+Max link dim: 1
+Avg link dim: 1.000000
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651773.0      00:00:30          6.52K ",FALSE
+2651774,quest-energy,1,1,,1,qft,74,|Wn>,16777216,1E-16,75,"Full simulation time: 456392 ms
+Norm: 1.000000
+Max link dim: 87
+Avg link dim: 32.095890
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651774.0      00:07:40        109.73K ",FALSE
+2651775,quest-energy,1,1,,1,qft,76,|0..0>,16777216,1E-16,77,"Full simulation time: 27884.2 ms
+Norm: 1.000000
+Max link dim: 1
+Avg link dim: 1.000000
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651775.0      00:00:31          6.91K ",FALSE
+2651776,quest-energy,1,1,,1,qft,76,|Wn>,16777216,1E-16,77,"Full simulation time: 596460 ms
+Norm: 1.000000
+Max link dim: 106
+Avg link dim: 34.853333
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651776.0      00:09:58        150.47K ",FALSE
+2651777,quest-energy,1,1,,1,qft,78,|0..0>,16777216,1E-16,79,"Full simulation time: 30179.6 ms
+Norm: 1.000000
+Max link dim: 1
+Avg link dim: 1.000000
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651777.0      00:00:32          7.65K ",FALSE
+2651778,quest-energy,1,1,,1,qft,78,|Wn>,16777216,1E-16,79,"Full simulation time: 627008 ms
+Norm: 1.000000
+Max link dim: 125
+Avg link dim: 38.077922
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651778.0      00:10:29        151.43K ",FALSE
+2651779,quest-energy,1,1,,1,qft,80,|0..0>,16777216,1E-16,81,"Full simulation time: 32779.9 ms
+Norm: 1.000000
+Max link dim: 1
+Avg link dim: 1.000000
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651779.0      00:00:34          8.30K ",FALSE
+2651780,quest-energy,1,1,,1,qft,80,|Wn>,16777216,1E-16,81,"Full simulation time: 817609 ms
+Norm: 1.000000
+Max link dim: 153
+Avg link dim: 43.443038
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651780.0      00:13:39        198.30K ",FALSE
+2651781,quest-energy,1,1,,1,qft,82,|0..0>,16777216,1E-16,83,"Full simulation time: 35465.7 ms
+Norm: 1.000000
+Max link dim: 1
+Avg link dim: 1.000000
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651781.0      00:00:36          8.92K ",FALSE
+2651782,quest-energy,1,1,,1,qft,82,|Wn>,16777216,1E-16,83,"Full simulation time: 862174 ms
+Norm: 1.000000
+Max link dim: 122
+Avg link dim: 41.987654
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651782.0      00:14:23        194.59K ",FALSE
+2651783,quest-energy,1,1,,1,qft,84,|0..0>,16777216,1E-16,85,"Full simulation time: 37657.8 ms
+Norm: 1.000000
+Max link dim: 1
+Avg link dim: 1.000000
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651783.0      00:00:40          9.22K ",FALSE
+2651784,quest-energy,1,1,,1,qft,84,|Wn>,16777216,1E-16,85,"Full simulation time: 952616 ms
+Norm: 1.000000
+Max link dim: 133
+Avg link dim: 38.783133
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651784.0      00:15:54        230.26K ",FALSE
+2651785,quest-energy,1,1,,1,qft,86,|0..0>,16777216,1E-16,87,"Full simulation time: 41559.9 ms
+Norm: 1.000000
+Max link dim: 1
+Avg link dim: 1.000000
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651785.0      00:00:44         10.11K ",FALSE
+2651786,quest-energy,1,1,,1,qft,86,|Wn>,16777216,1E-16,87,"Full simulation time: 1.05053e+06 ms
+Norm: 1.000000
+Max link dim: 123
+Avg link dim: 44.505882
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651786.0      00:17:31        250.29K ",FALSE
+2651787,quest-energy,1,1,,1,qft,88,|0..0>,16777216,1E-16,89,"Full simulation time: 40099.2 ms
+Norm: 1.000000
+Max link dim: 1
+Avg link dim: 1.000000
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651787.0      00:00:42         10.47K ",FALSE
+2651788,quest-energy,1,1,,1,qft,88,|Wn>,16777216,1E-16,89,"Full simulation time: 1.19719e+06 ms
+Norm: 1.000000
+Max link dim: 106
+Avg link dim: 42.862069
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651788.0      00:19:59        287.88K ",FALSE
+2651789,quest-energy,1,1,,1,qft,90,|0..0>,16777216,1E-16,91,"Full simulation time: 46652.3 ms
+Norm: 1.000000
+Max link dim: 1
+Avg link dim: 1.000000
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651789.0      00:00:48         11.61K ",FALSE
+2651790,quest-energy,1,1,,1,qft,90,|Wn>,16777216,1E-16,91,"Full simulation time: 1.37138e+06 ms
+Norm: 1.000000
+Max link dim: 165
+Avg link dim: 52.404494
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2651790.0      00:22:52        324.02K ",FALSE

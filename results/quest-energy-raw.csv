@@ -1,0 +1,1241 @@
+SLURM_JOB_ID,SLURM_JOB_NAME,SLURM_JOB_NUM_NODES,SLURM_NTASKS,SLURM_CPU_FREQ_REQ,OMP_NUM_THREADS,PROG,QREG_SIZE,DEPTH,OUTPUT,HAS_ERRORS
+2493327,quest-energy,1,1,Low,128,qft,32,16,"137787
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493327.0      00:02:24         50.27K ",FALSE
+2493328,quest-energy,1,1,Medium,128,qft,32,16,"129454
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493328.0      00:02:14         44.39K ",FALSE
+2493329,quest-energy,1,1,Highm1,128,qft,32,16,"129360
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493329.0      00:02:13         47.83K ",FALSE
+2493330,quest-energy,1,1,High,128,qft,32,16,"124895
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493330.0      00:02:09         60.18K ",FALSE
+2493331,quest-energy,2,2,Low,128,qft,32,16,"89155.6
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493331.0      00:01:35         63.18K ",FALSE
+2493332,quest-energy,2,2,Medium,128,qft,32,16,"84082.6
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493332.0      00:01:30         65.43K ",FALSE
+2493333,quest-energy,2,2,Highm1,128,qft,32,16,"84433.1
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493333.0      00:01:30         63.29K ",FALSE
+2493334,quest-energy,2,2,High,128,qft,32,16,"80466.4
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493334.0      00:01:24         76.94K ",FALSE
+2493335,quest-energy,4,4,Low,128,qft,32,16,"50444.9
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493335.0      00:00:55         72.26K ",FALSE
+2493336,quest-energy,4,4,Medium,128,qft,32,16,"47400.6
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493336.0      00:00:51         70.33K ",FALSE
+2493337,quest-energy,4,4,Highm1,128,qft,32,16,"47395.3
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493337.0      00:00:52         69.03K ",FALSE
+2493338,quest-energy,4,4,High,128,qft,32,16,"45453.5
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493338.0      00:00:50         88.98K ",FALSE
+2493339,quest-energy,8,8,Low,128,qft,32,16,"30143.3
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493339.0      00:00:40         94.37K ",FALSE
+2493340,quest-energy,8,8,Medium,128,qft,32,16,"27739.5
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493340.0      00:00:32         90.22K ",FALSE
+2493341,quest-energy,8,8,Highm1,128,qft,32,16,"28385.2
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493341.0      00:00:33         87.80K ",FALSE
+2493342,quest-energy,8,8,High,128,qft,32,16,"27089.9
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493342.0      00:00:31        107.36K ",FALSE
+2493343,quest-energy,16,16,Low,128,qft,32,16,"17288.6
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493343.0      00:00:25        116.70K ",FALSE
+2493344,quest-energy,16,16,Medium,128,qft,32,16,"15900.6
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493344.0      00:00:21        108.88K ",FALSE
+2493345,quest-energy,16,16,Highm1,128,qft,32,16,"16300.5
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493345.0      00:00:23        111.07K ",FALSE
+2493346,quest-energy,16,16,High,128,qft,32,16,"15210.9
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493346.0      00:00:20        131.60K ",FALSE
+2493347,quest-energy,32,32,Low,128,qft,32,16,"9810.02
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493347.0      00:00:20        157.97K ",FALSE
+2493348,quest-energy,32,32,Medium,128,qft,32,16,"9242.81
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493348.0      00:00:18        148.83K ",FALSE
+2493349,quest-energy,32,32,Highm1,128,qft,32,16,"9005.29
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493349.0      00:00:15        132.90K ",FALSE
+2493350,quest-energy,32,32,High,128,qft,32,16,"8779.56
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493350.0      00:00:15        180.38K ",FALSE
+2493351,quest-energy,64,64,Low,128,qft,32,16,"5367.74
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493351.0      00:00:14        230.23K ",FALSE
+2493352,quest-energy,64,64,Medium,128,qft,32,16,"4965.9
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493352.0      00:00:13        217.82K ",FALSE
+2493353,quest-energy,64,64,Highm1,128,qft,32,16,"5041.37
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493353.0      00:00:13        221.14K ",FALSE
+2493354,quest-energy,64,64,High,128,qft,32,16,"4667.47
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493354.0      00:00:12        240.21K ",FALSE
+2493355,quest-energy,128,128,Low,128,qft,32,16,"2365.72
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493355.0      00:00:11        336.07K ",FALSE
+2493356,quest-energy,128,128,Medium,128,qft,32,16,"2094.43
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493356.0      00:00:10        317.54K ",FALSE
+2493357,quest-energy,128,128,Highm1,128,qft,32,16,"2105.72
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493357.0      00:00:10        317.95K ",FALSE
+2493358,quest-energy,128,128,High,128,qft,32,16,"1796.78
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493358.0      00:00:10        332.05K ",FALSE
+2493359,quest-energy,1,1,Low,128,qft,33,16,"281661
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493359.0      00:04:48        110.25K ",FALSE
+2493360,quest-energy,1,1,Medium,128,qft,33,16,"272476
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493360.0      00:04:39        102.79K ",FALSE
+2493361,quest-energy,1,1,Highm1,128,qft,33,16,"271720
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493361.0      00:04:37        107.68K ",FALSE
+2493362,quest-energy,1,1,High,128,qft,33,16,"251233
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493362.0      00:04:17        132.18K ",FALSE
+2493363,quest-energy,2,2,Low,128,qft,33,16,"189697
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493363.0      00:03:19        130.30K ",FALSE
+2493364,quest-energy,2,2,Medium,128,qft,33,16,"179700
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493364.0      00:03:07        126.76K ",FALSE
+2493365,quest-energy,2,2,Highm1,128,qft,33,16,"178335
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493365.0      00:03:05        129.84K ",FALSE
+2493366,quest-energy,2,2,High,128,qft,33,16,"169095
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493366.0      00:02:54        159.48K ",FALSE
+2493367,quest-energy,4,4,Low,128,qft,33,16,"103903
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493367.0      00:01:51        140.10K ",FALSE
+2493368,quest-energy,4,4,Medium,128,qft,33,16,"98537.7
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493368.0      00:01:44        143.16K ",FALSE
+2493369,quest-energy,4,4,Highm1,128,qft,33,16,"95146.2
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493369.0      00:01:40        146.18K ",FALSE
+2493370,quest-energy,4,4,High,128,qft,33,16,"93258.9
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493370.0      00:01:37        184.04K ",FALSE
+2493371,quest-energy,8,8,Low,128,qft,33,16,"60904.6
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493371.0      00:01:08        175.86K ",FALSE
+2493372,quest-energy,8,8,Medium,128,qft,33,16,"57596.5
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493372.0      00:01:02        169.89K ",FALSE
+2493373,quest-energy,8,8,Highm1,128,qft,33,16,"57677.1
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493373.0      00:01:06        170.81K ",FALSE
+2493374,quest-energy,8,8,High,128,qft,33,16,"53744.4
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493374.0      00:01:02        222.69K ",FALSE
+2493375,quest-energy,16,16,Low,128,qft,33,16,"34691.3
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493375.0      00:00:43        206.63K ",FALSE
+2493376,quest-energy,16,16,Medium,128,qft,33,16,"32913.9
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493376.0      00:00:40        204.47K ",FALSE
+2493377,quest-energy,16,16,Highm1,128,qft,33,16,"32089.5
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493377.0      00:00:37        204.48K ",FALSE
+2493383,quest-energy,16,16,High,128,qft,33,16,"31413
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493383.0      00:00:38        257.32K ",FALSE
+2493384,quest-energy,32,32,Low,128,qft,33,16,"19363.1
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493384.0      00:00:25        241.89K ",FALSE
+2493386,quest-energy,32,32,Medium,128,qft,33,16,"18612.4
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493386.0      00:00:26        254.43K ",FALSE
+2493387,quest-energy,32,32,Highm1,128,qft,33,16,"18559.3
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493387.0      00:00:26        260.27K ",FALSE
+2493388,quest-energy,32,32,High,128,qft,33,16,"17317.7
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493388.0      00:00:24        309.12K ",FALSE
+2493389,quest-energy,64,64,Low,128,qft,33,16,"10817.6
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493389.0      00:00:20        340.31K ",FALSE
+2493390,quest-energy,64,64,Medium,128,qft,33,16,"10187.6
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493390.0      00:00:20        334.27K ",FALSE
+2493394,quest-energy,64,64,Highm1,128,qft,33,16,"10179.8
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493394.0      00:00:20        334.46K ",FALSE
+2493395,quest-energy,64,64,High,128,qft,33,16,"9664.86
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493395.0      00:00:17        393.94K ",FALSE
+2493396,quest-energy,128,128,Low,128,qft,33,16,"6043.72
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493396.0      00:00:15        493.24K ",FALSE
+2493397,quest-energy,128,128,Medium,128,qft,33,16,"5531.86
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493397.0      00:00:13        472.91K ",FALSE
+2493398,quest-energy,128,128,Highm1,128,qft,33,16,"5471.26
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493398.0      00:00:15        463.27K ",FALSE
+2493399,quest-energy,128,128,High,128,qft,33,16,"5096
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493399.0      00:00:12        518.14K ",FALSE
+2493400,quest-energy,4,4,Low,128,qft,34,16,"216139
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493400.0      00:03:45        293.47K ",FALSE
+2493402,quest-energy,4,4,Medium,128,qft,34,16,"204692
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493402.0      00:03:31        293.98K ",FALSE
+2493403,quest-energy,4,4,Highm1,128,qft,34,16,"203608
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493403.0      00:03:31        287.91K ",FALSE
+2493404,quest-energy,4,4,High,128,qft,34,16,"192718
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493404.0      00:03:20        371.87K ",FALSE
+2493405,quest-energy,8,8,Low,128,qft,34,16,"125442
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493405.0      00:02:12        335.07K ",FALSE
+2493415,quest-energy,8,8,Medium,128,qft,34,16,"119026
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493415.0      00:02:05        336.32K ",FALSE
+2493417,quest-energy,8,8,Highm1,128,qft,34,16,"118147
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493417.0      00:02:05        338.61K ",FALSE
+2493418,quest-energy,8,8,High,128,qft,34,16,"110711
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493418.0      00:01:58        447.92K ",FALSE
+2493419,quest-energy,16,16,Low,128,qft,34,16,"70567.6
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493419.0      00:01:17        381.04K ",FALSE
+2493420,quest-energy,16,16,Medium,128,qft,34,16,"64927.9
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493420.0      00:01:10        386.46K ",FALSE
+2493422,quest-energy,16,16,Highm1,128,qft,34,16,"65393.6
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493422.0      00:01:11        388.48K ",FALSE
+2493423,quest-energy,16,16,High,128,qft,34,16,"63337.6
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493423.0      00:01:07        487.87K ",FALSE
+2493429,quest-energy,32,32,Low,128,qft,34,16,"39803.1
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493429.0      00:00:48        450.52K ",FALSE
+2493431,quest-energy,32,32,Medium,128,qft,34,16,"37553.2
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493431.0      00:00:45        466.75K ",FALSE
+2493432,quest-energy,32,32,Highm1,128,qft,34,16,"37499.5
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493432.0      00:00:45        457.99K ",FALSE
+2493451,quest-energy,32,32,High,128,qft,34,16,"35823.1
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493451.0      00:00:40        569.90K ",FALSE
+2493456,quest-energy,64,64,Low,128,qft,34,16,"21838.1
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493456.0      00:00:31        561.46K ",FALSE
+2493457,quest-energy,64,64,Medium,128,qft,34,16,"20685.7
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493457.0      00:00:30        566.69K ",FALSE
+2493458,quest-energy,64,64,Highm1,128,qft,34,16,"20621.4
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493458.0      00:00:28        560.70K ",FALSE
+2493460,quest-energy,64,64,High,128,qft,34,16,"19557.5
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493460.0      00:00:26        687.40K ",FALSE
+2493461,quest-energy,128,128,Low,128,qft,34,16,"12193.3
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493461.0      00:00:21        741.04K ",FALSE
+2493462,quest-energy,128,128,Medium,128,qft,34,16,"11428.9
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493462.0      00:00:19        725.70K ",FALSE
+2493463,quest-energy,128,128,Highm1,128,qft,34,16,"11381.6
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493463.0      00:00:20        720.09K ",FALSE
+2493466,quest-energy,128,128,High,128,qft,34,16,"10833.3
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493466.0      00:00:18        867.86K ",FALSE
+2493467,quest-energy,8,8,Low,128,qft,35,16,"265188
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493467.0      00:04:34        734.00K ",FALSE
+2493469,quest-energy,8,8,Medium,128,qft,35,16,"243456
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493469.0      00:04:13        687.47K ",FALSE
+2493470,quest-energy,8,8,Highm1,128,qft,35,16,"244063
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493470.0      00:04:15        698.89K ",FALSE
+2493471,quest-energy,8,8,High,128,qft,35,16,"230850
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493471.0      00:03:57        923.90K ",FALSE
+2493474,quest-energy,16,16,Low,128,qft,35,16,"141256
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493474.0      00:02:31        786.44K ",FALSE
+2493476,quest-energy,16,16,Medium,128,qft,35,16,"135140
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493476.0      00:02:21        764.68K ",FALSE
+2493477,quest-energy,16,16,Highm1,128,qft,35,16,"134755
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493477.0      00:02:23        768.86K ",FALSE
+2493478,quest-energy,16,16,High,128,qft,35,16,"128279
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493478.0      00:02:15          1.01M ",FALSE
+2493479,quest-energy,32,32,Low,128,qft,35,16,"80132
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493479.0      00:01:29        888.01K ",FALSE
+2493480,quest-energy,32,32,Medium,128,qft,35,16,"75713.5
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493480.0      00:01:24        889.44K ",FALSE
+2493481,quest-energy,32,32,Highm1,128,qft,35,16,"75655.8
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493481.0      00:01:23        881.46K ",FALSE
+2493482,quest-energy,32,32,High,128,qft,35,16,"72375.4
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493482.0      00:01:20          1.15M ",FALSE
+2493483,quest-energy,64,64,Low,128,qft,35,16,"44438.1
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493483.0      00:00:53          1.03M ",FALSE
+2493491,quest-energy,64,64,Medium,128,qft,35,16,"41972.9
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493491.0      00:00:52          1.09M ",FALSE
+2493492,quest-energy,64,64,Highm1,128,qft,35,16,"42131.8
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493492.0      00:00:53          1.03M ",FALSE
+2493493,quest-energy,64,64,High,128,qft,35,16,"39892.7
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493493.0      00:00:48          1.37M ",FALSE
+2493494,quest-energy,128,128,Low,128,qft,35,16,"24400.2
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493494.0      00:00:34          1.24M ",FALSE
+2493495,quest-energy,128,128,Medium,128,qft,35,16,"23033.5
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493495.0      00:00:33          1.23M ",FALSE
+2493496,quest-energy,128,128,Highm1,128,qft,35,16,"23266.2
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493496.0      00:00:34          1.24M ",FALSE
+2493497,quest-energy,128,128,High,128,qft,35,16,"21839.6
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493497.0      00:00:32          1.53M ",FALSE
+2493501,quest-energy,16,16,Low,128,qft,36,16,"295182
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493501.0      00:05:09          1.65M ",FALSE
+2493504,quest-energy,16,16,Medium,128,qft,36,16,"278293
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493504.0      00:04:50          1.66M ",FALSE
+2493505,quest-energy,16,16,Highm1,128,qft,36,16,"279019
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493505.0      00:04:50          1.68M ",FALSE
+2493506,quest-energy,16,16,High,128,qft,36,16,"263080
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493506.0      00:04:30          2.10M ",FALSE
+2493507,quest-energy,32,32,Low,128,qft,36,16,"164078
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493507.0      00:02:51          1.73M ",FALSE
+2493509,quest-energy,32,32,Medium,128,qft,36,16,"154513
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493509.0      00:02:43          1.64M ",FALSE
+2493510,quest-energy,32,32,Highm1,128,qft,36,16,"154630
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493510.0      00:02:44          1.82M ",FALSE
+2493513,quest-energy,32,32,High,128,qft,36,16,"146585
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493513.0      00:02:36          2.26M ",FALSE
+2493515,quest-energy,64,64,Low,128,qft,36,16,"90591
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493515.0      00:01:41          1.96M ",FALSE
+2493516,quest-energy,64,64,Medium,128,qft,36,16,"85654
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493516.0      00:01:34          2.00M ",FALSE
+2493517,quest-energy,64,64,Highm1,128,qft,36,16,"85197.1
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493517.0      00:01:33          1.98M ",FALSE
+2493518,quest-energy,64,64,High,128,qft,36,16,"81422.8
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493518.0      00:01:30          2.57M ",FALSE
+2493520,quest-energy,128,128,Low,128,qft,36,16,"49468.9
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493520.0      00:00:58          2.27M ",FALSE
+2493522,quest-energy,128,128,Medium,128,qft,36,16,"46501.4
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493522.0      00:00:55          2.26M ",FALSE
+2493524,quest-energy,128,128,Highm1,128,qft,36,16,"46429.7
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493524.0      00:00:55          2.26M ",FALSE
+2493526,quest-energy,128,128,High,128,qft,36,16,"44214.8
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2493526.0      00:00:52          2.86M ",FALSE
+2510894,quest-energy,1,1,Low,128,rand,32,33,"768841
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510894.0      00:12:55        276.12K ",FALSE
+2510895,quest-energy,1,1,Medium,128,rand,32,33,"742973
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510895.0      00:12:29        288.94K ",FALSE
+2510896,quest-energy,1,1,Highm1,128,rand,32,33,"741264
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510896.0      00:12:29        273.01K ",FALSE
+2510898,quest-energy,1,1,High,128,rand,32,33,"712911
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510898.0      00:11:57        357.51K ",FALSE
+2510899,quest-energy,2,2,Low,128,rand,32,33,"581373
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510899.0      00:09:48        381.16K ",FALSE
+2510900,quest-energy,2,2,Medium,128,rand,32,33,"551729
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510900.0      00:09:17        393.15K ",FALSE
+2510901,quest-energy,2,2,Highm1,128,rand,32,33,"555550
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510901.0      00:09:23        391.35K ",FALSE
+2510902,quest-energy,2,2,High,128,rand,32,33,"527954
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510902.0      00:08:52        499.77K ",FALSE
+2510903,quest-energy,4,4,Low,128,rand,32,33,"397555
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510903.0      00:06:44        532.69K ",FALSE
+2510905,quest-energy,4,4,Medium,128,rand,32,33,"374910
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510905.0      00:06:19        527.42K ",FALSE
+2510906,quest-energy,4,4,Highm1,128,rand,32,33,"373919
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510906.0      00:06:18        522.37K ",FALSE
+2510907,quest-energy,4,4,High,128,rand,32,33,"354919
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510907.0      00:06:03        686.21K ",FALSE
+2510908,quest-energy,8,8,Low,128,rand,32,33,"258972
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510908.0      00:04:25        678.69K ",FALSE
+2510909,quest-energy,8,8,Medium,128,rand,32,33,"241992
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510909.0      00:04:06        664.19K ",FALSE
+2510910,quest-energy,8,8,Highm1,128,rand,32,33,"243682
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510910.0      00:04:09        715.66K ",FALSE
+2510911,quest-energy,8,8,High,128,rand,32,33,"229056
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510911.0      00:03:54        903.48K ",FALSE
+2510912,quest-energy,16,16,Low,128,rand,32,33,"156718
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510912.0      00:02:44        828.20K ",FALSE
+2510913,quest-energy,16,16,Medium,128,rand,32,33,"146901
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510913.0      00:02:33        810.12K ",FALSE
+2510914,quest-energy,16,16,Highm1,128,rand,32,33,"147184
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510914.0      00:02:35        862.70K ",FALSE
+2510915,quest-energy,16,16,High,128,rand,32,33,"139123
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510915.0      00:02:27          1.08M ",FALSE
+2510916,quest-energy,32,32,Low,128,rand,32,33,"93007.4
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510916.0      00:01:43          1.01M ",FALSE
+2510917,quest-energy,32,32,Medium,128,rand,32,33,"86690.3
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510917.0      00:01:34        975.41K ",FALSE
+2510918,quest-energy,32,32,Highm1,128,rand,32,33,"93839.1
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510918.0      00:01:42          1.05M ",FALSE
+2510919,quest-energy,32,32,High,128,rand,32,33,"81926.6
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510919.0      00:01:31          1.28M ",FALSE
+2510920,quest-energy,64,64,Low,128,rand,32,33,"52651.8
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510920.0      00:01:03          1.21M ",FALSE
+2510921,quest-energy,64,64,Medium,128,rand,32,33,"48883
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510921.0      00:00:58          1.15M ",FALSE
+2510922,quest-energy,64,64,Highm1,128,rand,32,33,"48832.1
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510922.0      00:00:59          1.18M ",FALSE
+2510923,quest-energy,64,64,High,128,rand,32,33,"46047.7
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510923.0      00:00:55          1.54M ",FALSE
+2510924,quest-energy,128,128,Low,128,rand,32,33,"28369.5
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510924.0      00:00:40          1.41M ",FALSE
+2510925,quest-energy,128,128,Medium,128,rand,32,33,"25886.1
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510925.0      00:00:37          1.42M ",FALSE
+2510926,quest-energy,128,128,Highm1,128,rand,32,33,"25848.1
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510926.0      00:00:48          1.74M ",FALSE
+2510927,quest-energy,128,128,High,128,rand,32,33,"24118.8
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510927.0      00:00:33          1.67M ",FALSE
+2510928,quest-energy,1,1,Low,128,rand,33,34,"1.62638e+06
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510928.0      00:27:13        586.68K ",FALSE
+2510929,quest-energy,1,1,Medium,128,rand,33,34,"1.57283e+06
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510929.0      00:26:19        590.47K ",FALSE
+2510930,quest-energy,1,1,Highm1,128,rand,33,34,"1.57886e+06
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510930.0      00:26:25        609.49K ",FALSE
+2510931,quest-energy,1,1,High,128,rand,33,34,"1.52367e+06
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510931.0      00:25:29        771.67K ",FALSE
+2510932,quest-energy,2,2,Low,128,rand,33,34,"1.22451e+06
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510932.0      00:20:34        818.24K ",FALSE
+2510933,quest-energy,2,2,Medium,128,rand,33,34,"1.16327e+06
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510933.0      00:19:30        830.20K ",FALSE
+2510934,quest-energy,2,2,Highm1,128,rand,33,34,"1.16528e+06
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510934.0      00:19:35        823.63K ",FALSE
+2510935,quest-energy,2,2,High,128,rand,33,34,"1.10187e+06
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510935.0      00:18:27          1.15M ",FALSE
+2510936,quest-energy,4,4,Low,128,rand,33,34,"814781
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510936.0      00:13:44          1.09M ",FALSE
+2510937,quest-energy,4,4,Medium,128,rand,33,34,"767981
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510937.0      00:12:57          1.06M ",FALSE
+2510938,quest-energy,4,4,Highm1,128,rand,33,34,"765175
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510938.0      00:12:55          1.07M ",FALSE
+2510939,quest-energy,4,4,High,128,rand,33,34,"724570
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510939.0      00:12:14          1.40M ",FALSE
+2510940,quest-energy,8,8,Low,128,rand,33,34,"526377
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510940.0      00:08:55          1.37M ",FALSE
+2510941,quest-energy,8,8,Medium,128,rand,33,34,"498405
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510941.0      00:08:27          1.40M ",FALSE
+2510942,quest-energy,8,8,Highm1,128,rand,33,34,"495633
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510942.0      00:08:20          1.38M ",FALSE
+2510943,quest-energy,8,8,High,128,rand,33,34,"470513
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510943.0      00:07:54          1.77M ",FALSE
+2510944,quest-energy,16,16,Low,128,rand,33,34,"324146
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510944.0      00:05:32          1.68M ",FALSE
+2510945,quest-energy,16,16,Medium,128,rand,33,34,"304001
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510945.0      00:05:11          1.67M ",FALSE
+2510946,quest-energy,16,16,Highm1,128,rand,33,34,"305179
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510946.0      00:05:13          1.68M ",FALSE
+2510949,quest-energy,16,16,High,128,rand,33,34,"287049
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510949.0      00:04:54          2.19M ",FALSE
+2510950,quest-energy,32,32,Low,128,rand,33,34,"191815
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510950.0      00:03:21          2.00M ",FALSE
+2510951,quest-energy,32,32,Medium,128,rand,33,34,"179125
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510951.0      00:03:07          1.98M ",FALSE
+2510953,quest-energy,32,32,Highm1,128,rand,33,34,"179356
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510953.0      00:03:09          2.00M ",FALSE
+2510954,quest-energy,32,32,High,128,rand,33,34,"169530
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510954.0      00:02:56          2.43M ",FALSE
+2510955,quest-energy,64,64,Low,128,rand,33,34,"110695
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510955.0      00:02:02          2.39M ",FALSE
+2510956,quest-energy,64,64,Medium,128,rand,33,34,"103358
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510956.0      00:01:53          2.47M ",FALSE
+2510957,quest-energy,64,64,Highm1,128,rand,33,34,"103416
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510957.0      00:01:53          2.36M ",FALSE
+2510958,quest-energy,64,64,High,128,rand,33,34,"104085
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510958.0      00:01:53          3.19M ",FALSE
+2510960,quest-energy,128,128,Low,128,rand,33,34,"61711.4
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510960.0      00:01:12          2.77M ",FALSE
+2510962,quest-energy,128,128,Medium,128,rand,33,34,"57619.3
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510962.0      00:01:07          2.86M ",FALSE
+2510963,quest-energy,128,128,Highm1,128,rand,33,34,"57492.2
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510963.0      00:01:07          2.76M ",FALSE
+2510968,quest-energy,128,128,High,128,rand,33,34,"53939.9
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510968.0      00:01:03          3.46M ",FALSE
+2510969,quest-energy,4,4,Low,128,rand,34,35,"1.66531e+06
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510969.0      00:27:56          2.21M ",FALSE
+2510971,quest-energy,4,4,Medium,128,rand,34,35,"1.56418e+06
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510971.0      00:26:15          2.22M ",FALSE
+2510972,quest-energy,4,4,Highm1,128,rand,34,35,"1.55963e+06
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510972.0      00:26:10          2.23M ",FALSE
+2510973,quest-energy,4,4,High,128,rand,34,35,"1.4762e+06
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510973.0      00:24:43          2.88M ",FALSE
+2510974,quest-energy,8,8,Low,128,rand,34,35,"1.0795e+06
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510974.0      00:18:07          2.77M ",FALSE
+2510976,quest-energy,8,8,Medium,128,rand,34,35,"1.01131e+06
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510976.0      00:17:00          2.81M ",FALSE
+2510978,quest-energy,8,8,Highm1,128,rand,34,35,"1.00715e+06
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510978.0      00:16:53          2.82M ",FALSE
+2510980,quest-energy,8,8,High,128,rand,34,35,"971948
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510980.0      00:16:17          3.67M ",FALSE
+2510981,quest-energy,16,16,Low,128,rand,34,35,"653339
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510981.0      00:10:59          3.37M ",FALSE
+2510982,quest-energy,16,16,Medium,128,rand,34,35,"613182
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510982.0      00:10:18          3.36M ",FALSE
+2510989,quest-energy,16,16,Highm1,128,rand,34,35,"612165
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2510989.0      00:10:20          3.37M ",FALSE
+2511018,quest-energy,16,16,High,128,rand,34,35,"577608
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2511018.0      00:09:45          4.34M ",FALSE
+2511019,quest-energy,32,32,Low,128,rand,34,35,"396190
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2511019.0      00:06:48          4.05M ",FALSE
+2511020,quest-energy,32,32,Medium,128,rand,34,35,"370516
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2511020.0      00:06:18          4.09M ",FALSE
+2511021,quest-energy,32,32,Highm1,128,rand,34,35,"370516
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2511021.0      00:06:18          4.09M ",FALSE
+2511022,quest-energy,32,32,High,128,rand,34,35,"349259
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2511022.0      00:05:56          5.22M ",FALSE
+2511023,quest-energy,64,64,Low,128,rand,34,35,"227546
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2511023.0      00:03:57          4.69M ",FALSE
+2511024,quest-energy,64,64,Medium,128,rand,34,35,"231247
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2511024.0      00:04:01          5.08M ",FALSE
+2511027,quest-energy,64,64,Highm1,128,rand,34,35,"212959
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2511027.0      00:03:41          4.56M ",FALSE
+2511032,quest-energy,64,64,High,128,rand,34,35,"201031
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2511032.0      00:03:31          6.10M ",FALSE
+2511037,quest-energy,128,128,Low,128,rand,34,35,"129421
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2511037.0      00:02:20          5.46M ",FALSE
+2511043,quest-energy,128,128,Medium,128,rand,34,35,"120902
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2511043.0      00:02:10          5.67M ",FALSE
+2511044,quest-energy,128,128,Highm1,128,rand,34,35,"121056
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2511044.0      00:02:10          5.67M ",FALSE
+2511045,quest-energy,128,128,High,128,rand,34,35,"113947
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2511045.0      00:02:03          6.99M ",FALSE
+2511047,quest-energy,8,8,Low,128,rand,35,36,"2.17585e+06
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2511047.0      00:36:26          5.68M ",FALSE
+2511048,quest-energy,8,8,Medium,128,rand,35,36,"2.03339e+06
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2511048.0      00:34:02          6.00M ",FALSE
+2511049,quest-energy,8,8,Highm1,128,rand,35,36,"2.04361e+06
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2511049.0      00:34:15          5.70M ",FALSE
+2511050,quest-energy,8,8,High,128,rand,35,36,"1.94345e+06
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2511050.0      00:32:33          7.58M ",FALSE
+2511051,quest-energy,16,16,Low,128,rand,35,36,"1.32282e+06
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2511051.0      00:22:14          6.92M ",FALSE
+2511052,quest-energy,16,16,Medium,128,rand,35,36,"1.23188e+06
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2511052.0      00:20:41          6.79M ",FALSE
+2511053,quest-energy,16,16,Highm1,128,rand,35,36,"1.23787e+06
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2511053.0      00:20:45          6.86M ",FALSE
+2511063,quest-energy,16,16,High,128,rand,35,36,"1.1584e+06
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2511063.0      00:19:27          8.78M ",FALSE
+2511064,quest-energy,32,32,Low,128,rand,35,36,"803530
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2511064.0      00:13:31          8.18M ",FALSE
+2511066,quest-energy,32,32,Medium,128,rand,35,36,"750734
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2511066.0      00:12:43          8.30M ",FALSE
+2511069,quest-energy,32,32,Highm1,128,rand,35,36,"750510
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2511069.0      00:12:40          8.18M ",FALSE
+2511079,quest-energy,32,32,High,128,rand,35,36,"707982
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2511079.0      00:11:56         10.65M ",FALSE
+2511080,quest-energy,64,64,Low,128,rand,35,36,"473631
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2511080.0      00:08:03          9.33M ",FALSE
+2511081,quest-energy,64,64,Medium,128,rand,35,36,"443874
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2511081.0      00:07:34          9.77M ",FALSE
+2511082,quest-energy,64,64,Highm1,128,rand,35,36,"443859
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2511082.0      00:07:35          9.72M ",FALSE
+2511084,quest-energy,64,64,High,128,rand,35,36,"417867
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2511084.0      00:07:07         12.55M ",FALSE
+2511089,quest-energy,128,128,Low,128,rand,35,36,"277200
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2511089.0      00:04:48         11.24M ",FALSE
+2511092,quest-energy,128,128,Medium,128,rand,35,36,"249457
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2511092.0      00:04:20         10.95M ",FALSE
+2511108,quest-energy,128,128,Highm1,128,rand,35,36,"248582
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2511108.0      00:04:20         10.90M ",FALSE
+2511109,quest-energy,128,128,High,128,rand,35,36,"233993
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2511109.0      00:04:03         14.12M ",FALSE
+2511116,quest-energy,16,16,Low,128,rand,36,37,"2.69273e+06
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2511116.0      00:45:03         14.04M ",FALSE
+2511119,quest-energy,16,16,Medium,128,rand,36,37,"2.51155e+06
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2511119.0      00:42:03         14.03M ",FALSE
+2511121,quest-energy,16,16,Highm1,128,rand,36,37,"2.50568e+06
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2511121.0      00:41:59         13.75M ",FALSE
+2511122,quest-energy,16,16,High,128,rand,36,37,"2.34993e+06
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2511122.0      00:39:21         18.00M ",FALSE
+2511124,quest-energy,32,32,Low,128,rand,36,37,"1.61964e+06
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2511124.0      00:27:12         16.63M ",FALSE
+2511126,quest-energy,32,32,Medium,128,rand,36,37,"1.50582e+06
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2511126.0      00:25:17         16.47M ",FALSE
+2511127,quest-energy,32,32,Highm1,128,rand,36,37,"1.5104e+06
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2511127.0      00:25:22         16.48M ",FALSE
+2511129,quest-energy,32,32,High,128,rand,36,37,"1.41436e+06
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2511129.0      00:23:41         21.44M ",FALSE
+2511135,quest-energy,64,64,Low,128,rand,36,37,"979420
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2511135.0      00:16:30         19.83M ",FALSE
+2511141,quest-energy,64,64,Medium,128,rand,36,37,"916161
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2511141.0      00:15:26         19.94M ",FALSE
+2511142,quest-energy,64,64,Highm1,128,rand,36,37,"917409
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2511142.0      00:15:27         20.07M ",FALSE
+2511143,quest-energy,64,64,High,128,rand,36,37,"862058
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2511143.0      00:14:33         26.16M ",FALSE
+2511144,quest-energy,128,128,Low,128,rand,36,37,"552739
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2511144.0      00:09:24         22.37M ",FALSE
+2511145,quest-energy,128,128,Medium,128,rand,36,37,"516422
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2511145.0      00:08:46         22.42M ",FALSE
+2511146,quest-energy,128,128,Highm1,128,rand,36,37,"515762
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2511146.0      00:08:45         23.41M ",FALSE
+2511152,quest-energy,128,128,High,128,rand,36,37,"486104
+
+JobID           Elapsed ConsumedEnergy 
+------------ ---------- -------------- 
+2511152.0      00:08:17         28.98M ",FALSE
