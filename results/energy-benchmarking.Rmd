@@ -4,6 +4,7 @@ author: "Jakub Adamski"
 date: '`r Sys.Date()`'
 knit: (\(inputFile, encoding) {
         out_dir <- "out";
+        dir.create(out_dir, showWarnings = FALSE);
         inputFile |> rmarkdown::render(
           encoding = encoding, 
           output_dir= file.path(dirname(inputFile), out_dir)
